@@ -16,3 +16,8 @@ Key Features:
 
 5. Visualization: Created visualizations to compare actual versus predicted stock prices, providing insights into the model's effectiveness.
 
+Technologies Used:
+
+1. Python, pandas, matplotlib for data manipulation and visualization.
+
+2. scikit-learn for implementing machine learning models.
